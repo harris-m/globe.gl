@@ -44,7 +44,7 @@
     "kapsule": "^1.12.1",
     "three": "^0.112.0",
     "three-globe": "^2.5.4",
-    "three-render-objects": "^1.12.1"
+    "three-render-objects": "github:harris-m/three-render-objects"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
