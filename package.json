@@ -43,7 +43,7 @@
     "accessor-fn": "^1.2.2",
     "kapsule": "^1.12.1",
     "three": "^0.112.0",
-    "three-globe": "^2.5.4",
+    "three-globe": "2.9.0",
     "three-render-objects": "github:harris-m/three-render-objects"
   },
   "devDependencies": {
